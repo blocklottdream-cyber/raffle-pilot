@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "init dapp"
+git branch -M main
+git remote add origin https://github.com/<твой-аккаунт>/raffle-pilot.git
+git push -u origin main
